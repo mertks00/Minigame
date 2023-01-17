@@ -1,0 +1,7 @@
+name: Minigame
+version: '${project.version}'
+main: me.oyuncozucu.minigame.Minigame
+api-version: 1.16
+commands:
+  arena:
+
